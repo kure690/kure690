@@ -1,8 +1,8 @@
 # Hi, I'm Yuri 👋 👨‍💻
 ## Welcome to my digital playground!
+### Life is a continuous learning process
 
 
-<h3 align="center">It's never too late to learn</h3>
 
 <p align="left">
 </p>
