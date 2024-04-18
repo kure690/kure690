@@ -2,9 +2,8 @@
 ## Welcome to my digital playground!
 
 
-<h3 align="center">I'm a passionate aspiring software developer</h3>
+<h3 align="center">It's never too late to learn</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
