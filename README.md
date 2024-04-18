@@ -1,5 +1,6 @@
 # Hi, I'm Yuri 👋 👨‍💻
 ## Welcome to my digital playground!
+### I'm a passionate aspiring software developer
 
 If you're here, it probably means one of a few things:
 
